@@ -1,0 +1,13 @@
+#Ignore venv
+.venv/
+
+#Ignore pycache
+__pycache__/
+desktop.ini
+
+#CCPP
+CCPP/
+
+#docs
+docs/
+
